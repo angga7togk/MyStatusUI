@@ -1,0 +1,30 @@
+# this plugin is useful to know my info
+
+### TAG DEFAULT ###
+# use § set collors
+# use \n make new line
+# use {player} your name
+# use {ping} your ping
+# use {tps} your tps
+# use {x},{y},{z} your cordinates
+# use {item_name} get item name in your hand
+# use {item_id} get item id in your hand
+# use {item_meta} get item meta in your hand
+# use {online} get count player online
+# use {max_online} get count max player online
+
+### TAG PUREPERMS ###
+# use {rank} get your ranks
+
+### TAG ECONOMYAPI ###
+# use {money} get your money
+
+Status:
+  SimpleForm:
+    Title: "§lYourInformation"
+    Content: "edit in config.yml!"
+  Button:
+    Name: "§l§cExit\n§8Tap To Exit"
+    Image: "textures/ui/cancel"
+    Message: "Thanks For Using MyStatusUI"
+---

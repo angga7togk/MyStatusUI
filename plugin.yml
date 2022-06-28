@@ -1,0 +1,16 @@
+name: MyStatusUI
+main: Angga7Togk\MyStatusUI\Main
+version: 1.0
+api: 4.0.0
+author: Angga7Togk
+description: "Check Your Information"
+
+commands:
+  mystatus:
+    description: "Check Your Information"
+    permission: mystatus.command
+
+permissions:
+  mystatus.command:
+    description: "MyStatusUI Permission"
+    default: true
