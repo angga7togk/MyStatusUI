@@ -1,0 +1,9 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/angga7togk/MyStatusUI
+build-by-default: true
+branches:
+- main
+projects:
+  MyStatusUI:
+    path: ""
+    icon: "icon_alex.png"
+...
